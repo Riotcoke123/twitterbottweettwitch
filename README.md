@@ -7,6 +7,7 @@
  
 </head>
 <body>
+    ![X_logo](https://github.com/user-attachments/assets/7d3f7ffd-8525-480b-a7b3-07b74014c97c)
     ![images](https://github.com/user-attachments/assets/15fc926a-b103-46fd-87bf-52a7f47651b1)
     <h1>Twitch Twitter Bot</h1>
     <p>
