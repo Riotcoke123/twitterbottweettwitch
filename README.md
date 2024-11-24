@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
- 
 </head>
 <body>
-    ![X_logo](https://github.com/user-attachments/assets/7d3f7ffd-8525-480b-a7b3-07b74014c97c)
-    ![images](https://github.com/user-attachments/assets/15fc926a-b103-46fd-87bf-52a7f47651b1)
+    <!-- Fixing image embeds with <img> tag -->
+    <img src="https://github.com/user-attachments/assets/7d3f7ffd-8525-480b-a7b3-07b74014c97c" alt="X_logo">
+    <img src="https://github.com/user-attachments/assets/15fc926a-b103-46fd-87bf-52a7f47651b1" alt="images">
     <h1>Twitch Twitter Bot</h1>
     <p>
         A simple bot that tweets about active Twitch streamers every 24 hours, using the 
@@ -54,11 +54,6 @@
     <p>This will start the bot and it will tweet about active Twitch streamers based on the schedule you’ve set up.</p>
     <h2>License</h2>
     <p>This project is licensed under the <strong>The GNU General Public License v3.0</strong>.</p>
-    <h2>Links</h2>
-    <ul>
-        <li><a href="https://github.com/Riotcoke123/twitterbottweettwitch" target="_blank">GitHub Repository</a></li>
-        <li><a href="https://github.com/Riotcoke123/twitterbottweettwitch/issues" target="_blank">Report Bugs</a></li>
-    </ul>
 
 </body>
 </html>
