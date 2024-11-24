@@ -4,36 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        p {
-            font-size: 1.1em;
-            margin-bottom: 20px;
-        }
-        code {
-            background-color: #f4f4f4;
-            border: 1px solid #ccc;
-            padding: 0.5em;
-            font-family: monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            border: 1px solid #ccc;
-            padding: 1em;
-            font-family: monospace;
-            white-space: pre-wrap;
-            word-wrap: break-word;
-        }
-    </style>
+ 
 </head>
 <body>
     <h1>Twitch Twitter Bot</h1>
