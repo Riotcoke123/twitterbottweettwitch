@@ -7,6 +7,7 @@
  
 </head>
 <body>
+    ![images](https://github.com/user-attachments/assets/15fc926a-b103-46fd-87bf-52a7f47651b1)
     <h1>Twitch Twitter Bot</h1>
     <p>
         A simple bot that tweets about active Twitch streamers every 24 hours, using the 
