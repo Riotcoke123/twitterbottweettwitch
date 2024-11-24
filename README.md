@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- Fixing image embeds with <img> tag -->
-    <img src="https://github.com/user-attachments/assets/7d3f7ffd-8525-480b-a7b3-07b74014c97c" alt="X_logo" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/7d3f7ffd-8525-480b-a7b3-07b74014c97c" alt="X_logo" width="150" height="150">
     <img src="https://github.com/user-attachments/assets/15fc926a-b103-46fd-87bf-52a7f47651b1" alt="images" width="220" height="150">
     <h1>Twitch Twitter Bot</h1>
     <p>
